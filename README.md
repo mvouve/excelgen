@@ -9,7 +9,7 @@ import "github.com/mvouve/excelgen"
 type ExampleStruct struct {
 	FieldOne   int
 	FieldTwo   string
-	FieldThree double
+	FieldThree float64
 }
 
 func main() {
